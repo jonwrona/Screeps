@@ -21,8 +21,7 @@ module.exports = (grunt) => {
     },
     babel: {
       options: {
-        sourceMap: false,
-        minified: true
+        sourceMap: false
       },
       dist: {
         files: [{
