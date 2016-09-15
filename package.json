@@ -1,0 +1,28 @@
+{
+  "name": "screeps",
+  "version": "1.0.0",
+  "description": "Screeps is an MMO for developers.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonwrona/Screeps.git"
+  },
+  "author": "Jonathan Wrona",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonwrona/Screeps/issues"
+  },
+  "homepage": "https://github.com/jonwrona/Screeps#readme",
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-polyfill": "^6.13.0",
+    "babel-preset-es2015": "^6.14.0",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-screeps": "^1.2.1"
+  }
+}

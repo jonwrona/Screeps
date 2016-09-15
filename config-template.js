@@ -1,0 +1,7 @@
+const SCREEPS_EMAIL = 'YOUR_EMAIL';
+const SCREEPS_PASSWORD = 'YOUR_PASSWORD';
+
+module.exports = {
+  SCREEPS_EMAIL,
+  SCREEPS_PASSWORD
+};
